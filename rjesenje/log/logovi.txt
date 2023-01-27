@@ -1,0 +1,51 @@
+- stage 1 - 
+batch_size = 150
+learning_epoch = 10
+learning_rate = 0.001
+droping = 0.00001
+
+
+
+
+- stage 2 - 
+batch_size = 150
+epohe = 10
+learning rate = 0.001
+droping = 0.00001
+k = 15
+b1 = 60
+b2 = 40
+W1 = 1500
+W2 = 345600
+
+NE IDE ZA K>10
+
+
+- stage 3 -
+batch_size = 150
+epohe = 10
+learning rate = 0.001
+droping = 0.00001
+k = 10
+b1 = 49
+b2 = 40
+W1 = 1000
+W2 = 230400
+97%
+
+
+-stage 3.1 -
+droping = 0.00002
+
+-stage 3.2 - 
+rate = 0.002
+droping = 0.00002
+
+-stage 3.3 - 
+rate = 0.04
+droping = 0.00002
+
+
+-stage 3.4 - 
+rate = 0.04
+droping = 0.00005
